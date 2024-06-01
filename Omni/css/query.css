@@ -1,0 +1,12 @@
+@media (max-width: 84em) {
+  .hero {
+    max-width: 120rem;
+  }
+
+  .heading {
+    font-size: 44rem;
+  }
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
